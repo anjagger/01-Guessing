@@ -1,2 +1,2 @@
 # 01-Guessing
-A number guessing game
+This is a class project guessing game
